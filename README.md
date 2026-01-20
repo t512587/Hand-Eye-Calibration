@@ -79,7 +79,7 @@ python -c "import cv2, pyrealsense2, numpy; print('安裝成功！')"
 
 ## 📁 專案結構
 ```
-elephant-handeye-calibration/
+Hand-Eye-Calibration/
 ├── eye_in_hand/                    # 眼在手模式（相機在末端）
 │   ├── record.py                   # 手動記錄標定數據（使用9x6棋盤格）
 │   ├── compute_transform.py        # 計算轉換矩陣與即時測試
