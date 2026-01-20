@@ -219,7 +219,8 @@ python compute_transform.py
 2. **RMSE 誤差分析** - 標定精度評估
 3. **3D 視覺化圖** - 驗證轉換矩陣準確性
 
-<img src="https://github.com/user-attachments/assets/4cca3049-746a-4fb6-b2cb-8779a7721a64" width="600" alt="空間視覺化驗證圖">
+<img src="https://github.com/user-attachments/assets/1fde736f-759d-4f46-9569-3c0a801fbab4" width="600" alt="空間視覺化驗證圖">
+
 
 ### 步驟 4: 即時座標轉換測試
 
