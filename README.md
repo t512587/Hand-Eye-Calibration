@@ -353,7 +353,7 @@ SOFTWARE.
 
 ### 相關資源
 - [ArUco Marker 生成工具](https://chev.me/arucogen/)
-- [9棋盤格下載下載](https://github.com/opencv/opencv/blob/4.x/doc/pattern.png)
+- [9x6棋盤格下載](https://github.com/opencv/opencv/blob/4.x/doc/pattern.png)
 ---
 **最後更新：** 2026-01-19  
 **版本：** v1.0.0  
