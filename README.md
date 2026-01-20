@@ -183,7 +183,8 @@ python compute_transform.py
 
 將 **ArUco Marker（ID: DICT_4X4_50, 邊長 40mm）** 貼於機械臂末端，如下圖所示：
 
-<img src="https://github.com/user-attachments/assets/08210361-0396-4eb7-96eb-a7a2bf0e7b64" width="600" alt="ArUco Marker 安裝示意圖">
+<img src="https://github.com/user-attachments/assets/dc9e276b-2dc3-466a-93b7-0c9006e029e4" width="600" alt="ArUco Marker 安裝示意圖">
+
 
 ### 步驟 2: 手動記錄標定數據
 ```bash
