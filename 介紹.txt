@@ -1,5 +1,5 @@
-eye_on_hand   眼在手校正 *
-eye_in_hand 眼不在手校正 *
+eye_in_hand   眼在手校正 *
+eye_to_hand 眼不在手校正 *
 **************************
 python檔案
 record.py 初始手動紀錄座標點
