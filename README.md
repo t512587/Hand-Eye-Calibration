@@ -1,4 +1,4 @@
-# 🤖 Elephant Robotics 手眼標定自動化系統
+# 🤖 Elephant Robotics 手眼標定
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
